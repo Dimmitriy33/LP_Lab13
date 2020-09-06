@@ -1,0 +1,9 @@
+Цепочка acbfef распознана 
+Цепочка acbbfdbfbef распознана 
+Цепочка abcbbfcbfbbef распознана 
+Цепочка abdbfdbfef распознана 
+Цепочка abdbfdbfbbef распознана 
+Цепочка abcbbfbbef распознана 
+Цепочка abdbbfbbef распознана 
+Цепочка abdbbfbbefa не распознана, 2 строка 11 позиция 
+Цепочка abcbbfbbe не распознана, 2 строка 9 позиция 

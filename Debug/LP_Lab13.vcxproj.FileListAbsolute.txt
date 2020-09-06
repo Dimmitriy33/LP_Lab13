@@ -1,0 +1,2 @@
+d:\учеба\ЯП\Lab13\LP_Lab13\Debug\LP_Lab13.exe
+d:\учеба\ЯП\Lab13\LP_Lab13\Debug\LP_Lab13.pdb
